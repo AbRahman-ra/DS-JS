@@ -132,3 +132,5 @@ class SinglyLinkedList {
     return this;
   }
 }
+
+module.exports = { Node };

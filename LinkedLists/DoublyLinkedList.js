@@ -137,14 +137,4 @@ class DoublyLinkedList {
   }
 }
 
-let dll = new DoublyLinkedList();
-dll.push(0);
-dll.push(1);
-dll.push(2);
-dll.push(3);
-dll.push(4);
-dll.push(5);
-dll.push(6);
-console.log(dll.insert(4, 3.5));
-console.log(dll.reverse());
-console.log(dll);
+module.exports = { Node };
