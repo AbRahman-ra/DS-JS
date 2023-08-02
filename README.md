@@ -6,8 +6,8 @@ This repository contains the implementations of the most common Data Structures,
 
 - [x] Singly Linked Lists
 - [x] Doubly Linked Lists
-- [ ] Stacks
-- [ ] Queues
+- [x] Stacks
+- [x] Queues
 - [ ] Binary Search Trees (BST)
 - [ ] Binary Heaps (BH) & Priority Queues (PQ)
 - [ ] Hash Maps / Hash Tables
@@ -19,7 +19,6 @@ This repository contains the implementations of the most common Data Structures,
 
 ### Singly & Double Linked Lists
 
-- [x] Definition & Constructor
 - [x] Push
 - [x] Pop
 - [x] Shift
@@ -29,3 +28,13 @@ This repository contains the implementations of the most common Data Structures,
 - [x] Insert
 - [x] Remove
 - [x] Reverse
+
+### Stacks
+
+- [x] Push
+- [x] Pop
+
+### Queues
+
+- [x] Enqueue
+- [x] Dequeue
